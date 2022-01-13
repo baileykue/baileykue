@@ -1,4 +1,4 @@
-![Bailey Kuebelbeck](https://user-images.githubusercontent.com/71611929/144115029-374d979b-c318-430f-9fca-3ff6f6bce0ee.png)
+![Bailey Kuebelbeck (1)](https://user-images.githubusercontent.com/71611929/149376801-64724b23-4f14-461e-8209-744541ee603a.png)
 
 ### My creative, curious, and collaborative qualities allow me to focus my attention on writing clean consistent code. I am comfortable working in both large and small teams because of my ability to learn, adapt, and grow.
 
