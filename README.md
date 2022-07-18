@@ -4,11 +4,11 @@
 
 
 Tech Stack:
-~ Languages: JavaScript, HTML, CSS
-~ Libraries & Frameworks: React.js, Node.js, Express.js
-~ Databases: Supabase, PostgresSQL/SQL
-~ Testing Suites: Jest, React Testing Library, MSW
-~ Dev Tools: VS code, Github, Postman, Netlify, Heroku, BeeKeeper Studio
+- Languages: JavaScript, HTML, CSS
+- Libraries & Frameworks: React.js, Node.js, Express.js
+- Databases: Supabase, PostgresSQL/SQL
+- Testing Suites: Jest, React Testing Library, MSW
+- Dev Tools: VS code, Github, Postman, Netlify, Heroku, BeeKeeper Studio
 
 #### 📫 How to reach me: ...
 * LinkedIn https://www.linkedin.com/in/bailey-kuebelbeck/
