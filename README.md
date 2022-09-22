@@ -1,5 +1,3 @@
-![Bailey Kuebelbeck (1)](https://user-images.githubusercontent.com/71611929/149376801-64724b23-4f14-461e-8209-744541ee603a.png)
-
 ### Full-stack software engineer with strong communication skills, passionate about writing intuitive user focused code.
 
 
