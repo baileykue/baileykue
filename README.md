@@ -11,7 +11,8 @@ Tech Stack:
 - Dev Tools: VS code, Github, Postman, Netlify, Heroku, BeeKeeper Studio
 
 #### 📫 How to reach me: ...
-* LinkedIn https://www.linkedin.com/in/bailey-kuebelbeck/
+* LinkedIn: https://www.linkedin.com/in/bailey-kuebelbeck/
+* Email: bailey.kue@gmail.com
 
 <!--
 **baileykue/baileykue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
