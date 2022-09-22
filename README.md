@@ -3,7 +3,7 @@
 ### Full-stack software engineer with strong communication skills, passionate about writing intuitive user focused code.
 
 
-Tech Stack:
+#### Tech Stack:
 - Languages: JavaScript, HTML, CSS
 - Libraries & Frameworks: React.js, Node.js, Express.js
 - Databases: Supabase, PostgresSQL/SQL
