@@ -1,14 +1,14 @@
 <img src="./github-banner.jpg" />
 
-### Full-stack software engineer with strong communication skills, passionate about writing intuitive user focused code.
+### My innate creativity, boundless curiosity, and passion for collaboration infuse my approach to coding, guiding me to craft elegant and reliable solutions. As an empathetic developer, I prioritize transparent communication, fostering an environment where ideas flourish and enthusiasm is contagious. I thrive within teams that embrace collective innovation, finding my greatest fulfillment when contributing to a shared vision fueled by collaboration and mutual respect.
 
 
 #### Tech Stack:
-- Languages: JavaScript, HTML, CSS
-- Libraries & Frameworks: React.js, Node.js, Express.js
-- Databases: Supabase, PostgresSQL/SQL
-- Testing Suites: Jest, React Testing Library, MSW
-- Dev Tools: VS code, Github, Postman, Netlify, Heroku, BeeKeeper Studio
+- Languages: TypeScript, JavaScript, HTML, CSS
+- Libraries & Frameworks: React.js, Node.js, Express.js, Next.js, Nest.js, TypeORM, Tailwind, Serverless, i18next
+- Databases: PostgresSQL/SQL, GraphQL, OpenSearch, Supabase
+- Testing Suites: Jest, React Testing Library, MSW, Cypress
+- Dev Tools: VS code, Github, Postman, Docker, AWS, Netlify, Heroku, BeeKeeper Studio
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -20,6 +20,7 @@
 
 #### 📫 How to reach me: ...
 * LinkedIn: https://www.linkedin.com/in/bailey-kuebelbeck/
+* Work Github: https://github.com/baileykue-reup/
 * Email: bailey.kue@gmail.com
 
 <!-- <div id="badges">
