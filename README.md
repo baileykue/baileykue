@@ -1,4 +1,4 @@
-<img src="./github-banner.jpg" />
+<img src="./github_linkedin_banner.jpg" />
 
 ### My innate creativity, boundless curiosity, and passion for collaboration infuse my approach to coding, guiding me to craft elegant and reliable solutions. As an empathetic developer, I prioritize transparent communication, fostering an environment where ideas flourish and enthusiasm is contagious. I thrive within teams that embrace collective innovation, finding my greatest fulfillment when contributing to a shared vision fueled by collaboration and mutual respect.
 
