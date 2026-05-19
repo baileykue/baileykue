@@ -9,7 +9,7 @@
 - Databases: PostgresSQL/SQL, GraphQL, OpenSearch, Supabase
 - Testing Suites: Jest, React Testing Library, MSW, Cypress
 - AI & Tooling: GitHub Copilot, Claude AI, Semantic Search, OpenSearch Vector Scoring
-- Dev Tools: VS Code, Github, Postman, Beekeeper, Docker, AWS, Jira, Figma, Heroku, Netlify, Grafan
+- Dev Tools: VS Code, Github, Postman, Beekeeper, Docker, AWS, Jira, Figma, Heroku, Netlify, Grafana
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
